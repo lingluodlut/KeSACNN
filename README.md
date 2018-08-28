@@ -22,7 +22,7 @@ KeSACNN uses the following dependencies:
 	- KeSACNN-arc1.py: Our KeSACNN-I model
 	- KeSACNN-arc2.py: Our KeSACNN-2 model
 
-## Feature Embeddings
+## Feature embeddings
 The trained feature embeddings can be downloaded from https://www.kaggle.com/lingluodlut/kesacnn.
 
 ## Train a basic SACNN model
