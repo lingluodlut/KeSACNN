@@ -21,3 +21,22 @@ KeSACNN uses the following dependencies:
 	- SACNN.py: Our Self-Attention CNN model
 	- KeSACNN-arc1.py: Our KeSACNN-I model
 	- KeSACNN-arc2.py: Our KeSACNN-2 model
+
+## Train a basic SACNN model
+To train a basic SACNN model, you need to provide the file of the training set, testing set and word embedding, and run the SACNN.py script:
+
+```
+python SACNN.py  
+```
+## Train a KeSACNN-I model
+To train our KeSACNN-I model, you need to provide the file of the training set, testing set, word embedding, BEN embedding and CUI embedding, and run the KeSACNN-arc1.py script:
+
+```
+python KeSACNN-arc1.py 
+```
+## Train a KeSACNN-II model
+To train our KeSACNN-II model, you need to provide the file of the training set, testing set, word embedding, BEN embedding and CUI embedding, and run the KeSACNN-arc2.py script:
+
+```
+python KeSACNN-arc2.py 
+```
