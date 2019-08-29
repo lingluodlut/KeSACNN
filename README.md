@@ -1,5 +1,8 @@
 # KeSACNN
 ***
+This repo contains the source code and dataset for the following papers:
+- [Ling Luo, Zhihao Yang, Lei Wang, Yin Zhang, Hongfei Lin and Jian Wang. KeSACNN: a protein-protein interaction article classification approach based on deep neural network. International Journal of Data Mining and Bioinformatics, 2019, 22(2): 131-148.](https://www.inderscienceonline.com/doi/abs/10.1504/IJDMB.2019.099724)
+- [Ling Luo, Zhihao Yang, Lei Wang, Yin Zhang, Hongfei Lin, Jian Wang, Liang Yang, Kan Xu and Yijia Zhang. Protein-Protein Interaction Article Classification: A Knowledge-enriched Self-Attention Convolutional Neural Network Approach. Procceding of 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2018.](https://ieeexplore.ieee.org/abstract/document/8621362)
 ## Dependency package
 
 KeSACNN uses the following dependencies:
